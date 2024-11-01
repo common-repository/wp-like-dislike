@@ -1,0 +1,68 @@
+/*
+Admin css
+*/
+
+
+a { text-decoration:none;}
+
+.pb_free_notice_box {
+	background:#3993D0;
+	border: 2px dashed #08519B;
+	padding: 5px;width: 80%;margin-left: auto;margin-right: auto;
+}
+
+.pb_free_notice_box a.pb_name {
+	color:#fff;
+	text-align:center;
+	font-size:20px;
+}
+
+.pb_free_notice_box span.pb_free_notice {
+	color:#fff;
+	text-align:center;
+	font-size:15px;
+}
+
+.pb_free_notice_box a.pb_buy_pro_url {
+	color:#fff;
+	text-align:center;
+	font-size:22px;
+	font-weight:bolder;
+}
+
+
+
+
+.wp_ld_html_body_content {
+	font-size:15px;
+}
+
+.wp_lp_back_btn{
+	width:90%;
+}
+
+.wp_ld_admin_title_bar h2{ 
+
+	text-align:left;float:left;
+}
+.wp_ld_admin_title_bar h3 {
+
+	text-align:left;
+	float:right;
+}
+
+.wp_ld_show_list_container {
+	display:inline;
+}
+
+.wp_ld_show_list {
+	width:45%;
+}
+.wpld_top_notice_hover {
+	display:none;
+	position:absolute;
+}
+
+.wpld_pro_preview_images ul li img {
+	width:100%;
+}

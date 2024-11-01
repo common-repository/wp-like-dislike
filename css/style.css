@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+a { 
+	text-decoration:none;
+}
+input[type=number]::-webkit-outer-spin-button,
+input[type=number]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type=number] {
+    -moz-appearance:textfield;
+}
+
+.css_float_left { float:left;}
+.css_float_right { float:right;}
+
+/*====================================== BUTTONS ==========================================*/
+.a a{
+	text-decoration:none;
+	color:#fff !important;
+}
+.css_button_medium {
+	font-size: 22px;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+	text-align:center;
+	-webkit-user-select:none;
+}
+
+.css_button_small {
+	font-size: 14px;
+    color: white;
+    padding: 5px;
+    border-radius: 3px;
+    cursor: pointer;
+	text-align:center;
+	-webkit-user-select:none;
+}
+
+.css_button_green {
+    background-color: #26a65b;
+}
+.css_button_green:hover {
+	background-color: #208C4D;
+}
+
+.css_button_light_violate {
+    background-color: #A066FF;
+}
+.css_button_light_violate:hover {
+	background-color: rgb(112, 58, 202);
+}
+
+.css_button_sky_blue {
+    background-color: #3993D0;
+}
+.css_button_sky_blue:hover {
+	background-color: #2978AD;
+}
+
+.css_button_navy_blue {
+    background-color: #5B65DA;
+}
+.css_button_navy_blue:hover {
+	background-color: #3D47BB;
+}
+
+.css_button_red {
+    background-color: #CC685E;
+}
+.css_button_red:hover {
+	background-color: #CA2513;
+}
+
+.css_button_facebook {
+    background-color: #45619D;
+}
+.css_button_facebook:hover {
+	background-color: #1D459A;
+}
+
+
+

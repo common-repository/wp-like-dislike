@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wp_ld_button_inline{
+	display:inline-flex !important;
+}
+.wp_ld_button_inline div{
+	margin-right:10px;
+	display:inline !important;
+}
+
+.wp_ld_message {
+    position: absolute;
+}
